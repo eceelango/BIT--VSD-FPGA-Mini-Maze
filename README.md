@@ -35,7 +35,8 @@ This document provides an overview of the **VSDSquadron FPGA Mini (FM)** board a
   * [FPGA](#fpga)
     * [RTL code](##-rtl-code)
     * [Resource Utilization](##=📈-resource-utilization)
-    
+ 
+* [Final Output – Working Bot Demo](##-🎥-Final-Output-–-Working-Bot-Demo)
 * [Summary](#summary)
 
 ---
