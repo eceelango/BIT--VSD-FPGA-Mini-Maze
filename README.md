@@ -320,9 +320,9 @@ sudo make flash # Flash the bitstream onto the FPGA board
 
 You can refer to the following resources related to the single-layer maze bot in the dedicated repository:
 
-- 🖼️ **Images** of the maze and bot
-- 🛠️ **PCB Designs** used for the single-layer implementation
-- 📹 **Output Videos** demonstrating the bot's working
+- **Images** of the maze and bot
+- **PCB Designs** used for the single-layer implementation
+- **Output Videos** demonstrating the bot's working
 
 👉 [Click here to visit the Single Layer Maze Development Repository](https://github.com/gowthamnow/VSD-MAZE-ROBOT)
 
@@ -335,7 +335,31 @@ You can refer to the following resources related to the single-layer maze bot in
 
 ![image alt](https://github.com/eceelango/BIT--VSD-FPGA-Mini-Maze/blob/7904d269b63ad11fcb793d571d3f5d01846e4923/bot_pictures/2.jpg)
 
+---
+
+## PCB Design 
+---
+## ⚡ Schematic Diagram
+
+Below is the complete **schematic diagram** for the double-layer maze development board. It includes the following circuit blocks:
+
+-  **Voltage Regulator**: 5V power supply using LM7805 with external switch
+-  **VSD Microcontroller Unit**: Core control logic and signal processing
+-  **Motor Driver**: Control of left and right motors using ROB-14450
+-  **Ultrasonic Sensors (HC-SR04)**: Three sensors for obstacle detection
+-  **Encoders**: Input from wheel encoders for feedback control
+-  **Bluetooth Module**: For wireless communication
+-  **LED Outputs**: Status indicators
+
 ![image alt](https://github.com/eceelango/BIT--VSD-FPGA-Mini-Maze/blob/ccc17de0ef78f47d40051bdd0e8857a9d676e321/bot_pictures/MAZE_page-0001.jpg)
+
+## 📄 Draftsman Drawing
+
+The following image shows the **Draftsman view** of our PCB, including:
+
+- Top view of component layout
+- Left, right, and back profiles for assembly reference
+- Proper alignment and height of all modules
 
 ![image alt](https://github.com/eceelango/BIT--VSD-FPGA-Mini-Maze/blob/fb19c58b6a5307963b4d02a00653d3bdd2d22982/bot_pictures/Final%20Draftman%20BIT%20-%20VSDSquadron%20FPGA%20Micromouse_page-0001.jpg)
 
