@@ -32,7 +32,7 @@ This document provides an overview of the **VSDSquadron FPGA Mini (FM)** board a
     * [PCB Layout](#pcb-layout)
     * [3D View](#3d-view)
     * [Fabrication and Assembled Bot](#fabrication-and-assembled-bot)
-* [FPGA](#fpga)
+  * [FPGA](#fpga)
 * [Summary](#summary)
 
 ---
