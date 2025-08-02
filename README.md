@@ -1,8 +1,8 @@
 # BIT--VSD-FPGA-Mini-Maze
 VSD FPGA Based Maze Solving Robot Design and Development. 
-# 🚀 VSDSquadron FPGA Mini (FM) - FSM FPGA Design Flow
+# 🚀 VSDSquadron FPGA Mini (FM)
 
-This document provides an overview of the **VSDSquadron FPGA Mini (FM)** board and details the usage of essential commands in the FSM (Finite State Machine) FPGA design flow.
+This document provides an overview of the **VSDSquadron FPGA Mini (FM)** board and details the usage of essential commands in the Maze Development.
 
 ---
 
