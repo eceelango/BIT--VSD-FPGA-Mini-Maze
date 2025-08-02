@@ -94,7 +94,7 @@ git clone https://github.com/gowthamnow/VSD-MAZE-ROBOT
 
 ---
 
-![VSD SQUADRON FPGA](vsd_image_6_0.png)
+![image alt](https://github.com/eceelango/BIT--VSD-FPGA-Mini-Maze/blob/a90ec099435a084c8a732f5058099c76256c94a0/bot_pictures/vsd_image_6_0.png)
 
 ---
 ## 📌 Additional Features
