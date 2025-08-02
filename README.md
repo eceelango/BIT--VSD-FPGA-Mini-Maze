@@ -339,33 +339,50 @@ You can refer to the following resources related to the single-layer maze bot in
 
 ## PCB Design 
 ---
+
 ## ⚡ Schematic Diagram
 
 Below is the complete **schematic diagram** for the double-layer maze development board. It includes the following circuit blocks:
 
--  **Voltage Regulator**: 5V power supply using LM7805 with external switch
--  **VSD Microcontroller Unit**: Core control logic and signal processing
--  **Motor Driver**: Control of left and right motors using ROB-14450
--  **Ultrasonic Sensors (HC-SR04)**: Three sensors for obstacle detection
--  **Encoders**: Input from wheel encoders for feedback control
--  **Bluetooth Module**: For wireless communication
--  **LED Outputs**: Status indicators
+| **Component**                    | **Function**                                          |
+| -------------------------------- | ----------------------------------------------------- |
+| **Voltage Regulator**            | 5V power supply using **LM7805** with external switch |
+| **VSD Microcontroller Unit**     | Core control logic and signal processing              |
+| **Motor Driver**                 | Controls left and right motors using **ROB-14450**    |
+| **Ultrasonic Sensors (HC-SR04)** | Three sensors for obstacle detection                  |
+| **Encoders**                     | Wheel encoder input for feedback control              |
+| **Bluetooth Module**             | Wireless communication                                |
+| **LED Outputs**                  | Status indication                                     |
+
+
+---
+ 
 
 ![image alt](https://github.com/eceelango/BIT--VSD-FPGA-Mini-Maze/blob/ccc17de0ef78f47d40051bdd0e8857a9d676e321/bot_pictures/MAZE_page-0001.jpg)
 
+---
 ## 📄 Draftsman Drawing
-
+---
 The following image shows the **Draftsman view** of our PCB, including:
 
 - Top view of component layout
 - Left, right, and back profiles for assembly reference
 - Proper alignment and height of all modules
-
+---
 ![image alt](https://github.com/eceelango/BIT--VSD-FPGA-Mini-Maze/blob/fb19c58b6a5307963b4d02a00653d3bdd2d22982/bot_pictures/Final%20Draftman%20BIT%20-%20VSDSquadron%20FPGA%20Micromouse_page-0001.jpg)
 
+---
+
+## 🖼️ PCB Layout – Top and Bottom Layers
+
+---
 ![image alt](https://github.com/eceelango/BIT--VSD-FPGA-Mini-Maze/blob/fb19c58b6a5307963b4d02a00653d3bdd2d22982/bot_pictures/Final%20Draftman%20BIT%20-%20VSDSquadron%20FPGA%20Micromouse_page-0002.jpg)
 
+---
 
+## 🧱 3D View of the PCB
+
+---
 
 ![image alt](https://github.com/eceelango/BIT--VSD-FPGA-Mini-Maze/blob/fb19c58b6a5307963b4d02a00653d3bdd2d22982/bot_pictures/Final%20Draftman%20BIT%20-%20VSDSquadron%20FPGA%20Micromouse_page-0003.jpg)
 
