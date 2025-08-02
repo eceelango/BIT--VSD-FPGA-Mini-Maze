@@ -21,6 +21,7 @@ This document provides an overview of the **VSDSquadron FPGA Mini (FM)** board a
 * [Example Makefile Snippet](#example-makefile-snippet)
 * [Full Workflow Example](#full-workflow-example)
 * [Tools Typically Used](#tools-typically-used)
+* [Main Commands](#maincommands)
 * [Single Layer - Maze Development](#single-layer---maze-development)
 * [Double Layer - Maze Development](#double-layer---maze-development)
   * [PCB Design](#pcb-design)
@@ -33,7 +34,7 @@ This document provides an overview of the **VSDSquadron FPGA Mini (FM)** board a
     * [RTL code](#rtl-code)
     * [Resource Utilization](#resource-utilization)
 * [Final Output – Working Bot Demo](#final-output--working-bot-demo)
-* [Summary](#summary)
+
 
 
 
@@ -305,7 +306,7 @@ sudo make flash # Flash the bitstream onto the FPGA board
 
 ---
 
-## Summary
+## Main Commands
 
 | Command           | Description                             |
 |-------------------|-----------------------------------------|
