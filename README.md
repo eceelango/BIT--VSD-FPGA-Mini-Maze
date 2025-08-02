@@ -15,32 +15,25 @@ This document provides an overview of the **VSDSquadron FPGA Mini (FM)** board a
 * [Software Installation](#software-installation)
 * [Specifications](#specifications)
 * [Command Breakdown](#command-breakdown)
-
-  * [`make`](#make)
-  * [`make build`](#make-build)
-  * [`sudo make flash`](#sudo-make-flash)
+  * [make](#make)
+  * [make build](#make-build)
+  * [sudo make flash](#sudo-make-flash)
 * [Example Makefile Snippet](#example-makefile-snippet)
 * [Full Workflow Example](#full-workflow-example)
 * [Tools Typically Used](#tools-typically-used)
 * [Single Layer - Maze Development](#single-layer---maze-development)
 * [Double Layer - Maze Development](#double-layer---maze-development)
-
   * [PCB Design](#pcb-design)
-
-    * [Schematic](##-⚡-schematic-diagram)
-    * [Draftsman](##-📄-draftsman-drawing)
-    * [PCB Layout](##-🖼️-pcb-layout-–-top-and-bottom-layers)
-    * [3D View](##-🧱-3d-view-of-the-pcb)
-    * [Fabrication and Assembled Bot](##-🛠️-fabrication-and-assembled-bot)
+    * [Schematic](#schematic-diagram)
+    * [Draftsman](#draftsman-drawing)
+    * [PCB Layout](#pcb-layout--top-and-bottom-layers)
+    * [3D View](#3d-view-of-the-pcb)
+    * [Fabrication and Assembled Bot](#fabrication-and-assembled-bot)
   * [FPGA](#fpga)
-    * [RTL code](##-rtl-code)
-    * [Resource Utilization](##=📈-resource-utilization)
- 
-* [Final Output – Working Bot Demo](##-🎥-Final-Output-–-Working-Bot-Demo)
+    * [RTL code](#rtl-code)
+    * [Resource Utilization](#resource-utilization)
+* [Final Output – Working Bot Demo](#final-output--working-bot-demo)
 * [Summary](#summary)
-
----
-
 
 
 
