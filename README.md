@@ -7,26 +7,38 @@ VSD FPGA Based Maze Solving Robot Design and Development.
 
 This document provides an overview of the **VSDSquadron FPGA Mini (FM)** board and details the usage of essential commands in the Maze Development.
 
-
 ---
 
 ## 📋 Table of Contents
 
-- [Board Overview](#bBoard-Overview)
-- [Software Installation](#Software-Installaion).
-- [Specifications](#specifications)
-- [Command Breakdown](#command-breakdown)
-  - [`make`](#1️⃣-make)
-  - [`make build`](#2️⃣-make-build)
-  - [`sudo make flash`](#3️⃣-sudo-make-flash)
+* [Board Overview](#board-overview)
+* [Software Installation](#software-installation)
+* [Specifications](#specifications)
+* [Command Breakdown](#command-breakdown)
 
-- [Example Makefile Snippet](#example-makefile-snippet)
-- [Full Workflow Example](#full-workflow-example)
-- [Tools Typically Used](#tools-typically-used)
-- [Single Layer - Maze Development](#-single-layer---maze-development)
-- [Double Layer - Maze Development](#-double-layer---maze-development)
-- [Summary](#summary)
+  * [`make`](#make)
+  * [`make build`](#make-build)
+  * [`sudo make flash`](#sudo-make-flash)
+* [Example Makefile Snippet](#example-makefile-snippet)
+* [Full Workflow Example](#full-workflow-example)
+* [Tools Typically Used](#tools-typically-used)
+* [Single Layer - Maze Development](#single-layer---maze-development)
+* [Double Layer - Maze Development](#double-layer---maze-development)
+
+  * [PCB Design](#pcb-design)
+
+    * [Schematic](#schematic)
+    * [Draftsman](#draftsman)
+    * [PCB Layout](#pcb-layout)
+    * [3D View](#3d-view)
+    * [Fabrication and Assembled Bot](#fabrication-and-assembled-bot)
+* [FPGA](#fpga)
+* [Summary](#summary)
+
 ---
+
+
+
 
 ## Board Overview
 
@@ -388,6 +400,11 @@ The following image shows the **Draftsman view** of our PCB, including:
 
 ---
 
+## 🛠️ Fabrication and Assembled Bot
+---
 
+![image alt](https://github.com/eceelango/BIT--VSD-FPGA-Mini-Maze/blob/2226986757d5095fbbd866b1b1e8b3b0e6d65892/bot_pictures/Assembled%20and%20soldered.jpg)
+
+---
 
 
