@@ -1,8 +1,12 @@
 # BIT--VSD-FPGA-Mini-Maze
+
+![image alt](https://github.com/eceelango/BIT--VSD-FPGA-Mini-Maze/blob/0b69ca197324d60a622b113e53be56435d2b689a/bot_pictures/3.jpg)
+
 VSD FPGA Based Maze Solving Robot Design and Development. 
 # 🚀 VSDSquadron FPGA Mini (FM)
 
 This document provides an overview of the **VSDSquadron FPGA Mini (FM)** board and details the usage of essential commands in the Maze Development.
+
 
 ---
 
@@ -308,11 +312,15 @@ sudo make flash # Flash the bitstream onto the FPGA board
 
  
 ![image alt](https://github.com/eceelango/BIT--VSD-FPGA-Mini-Maze/blob/6212875e7ef7beb97addb6a4844ab26e8c45bf30/bot_pictures/1.jpg)
+
 ![image alt](https://github.com/eceelango/BIT--VSD-FPGA-Mini-Maze/blob/7904d269b63ad11fcb793d571d3f5d01846e4923/bot_pictures/2.jpg)
-![image alt](https://github.com/eceelango/BIT--VSD-FPGA-Mini-Maze/blob/4013b4d47f459e8ecaca4de24b71cb74d0082311/bot_pictures/3.jpg)
+
 ![image alt](https://github.com/eceelango/BIT--VSD-FPGA-Mini-Maze/blob/ccc17de0ef78f47d40051bdd0e8857a9d676e321/bot_pictures/MAZE_page-0001.jpg)
+
 ![image alt](https://github.com/eceelango/BIT--VSD-FPGA-Mini-Maze/blob/fb19c58b6a5307963b4d02a00653d3bdd2d22982/bot_pictures/Final%20Draftman%20BIT%20-%20VSDSquadron%20FPGA%20Micromouse_page-0001.jpg)
+
 ![image alt](https://github.com/eceelango/BIT--VSD-FPGA-Mini-Maze/blob/fb19c58b6a5307963b4d02a00653d3bdd2d22982/bot_pictures/Final%20Draftman%20BIT%20-%20VSDSquadron%20FPGA%20Micromouse_page-0002.jpg)
+
 ![image alt](https://github.com/eceelango/BIT--VSD-FPGA-Mini-Maze/blob/fb19c58b6a5307963b4d02a00653d3bdd2d22982/bot_pictures/Final%20Draftman%20BIT%20-%20VSDSquadron%20FPGA%20Micromouse_page-0003.jpg)
 
 
