@@ -27,12 +27,15 @@ This document provides an overview of the **VSDSquadron FPGA Mini (FM)** board a
 
   * [PCB Design](#pcb-design)
 
-    * [Schematic](#schematic)
-    * [Draftsman](#draftsman)
-    * [PCB Layout](#pcb-layout)
-    * [3D View](#3d-view)
-    * [Fabrication and Assembled Bot](#fabrication-and-assembled-bot)
-  * [FPGA](#fpga)
+    * [Schematic](##-⚡-Schematic-Diagram)
+    * [Draftsman](##-📄-Draftsman-Drawing)
+    * [PCB Layout](##-🖼️-PCB-Layout-–-Top-and-Bottom-Layers)
+    * [3D View](##-🧱-3D-View-of-the-PCB)
+    * [Fabrication and Assembled Bot](##-🛠️-Fabrication-and-Assembled-Bot)
+  * [FPGA](#FPGA)
+    * [RTL code](##-RTL-code)
+    * [Resource Utilization](##=📈-Resource-Utilization)
+    
 * [Summary](#summary)
 
 ---
