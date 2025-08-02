@@ -308,6 +308,6 @@ sudo make flash # Flash the bitstream onto the FPGA board
 
  
 ![image alt](https://github.com/eceelango/BIT--VSD-FPGA-Mini-Maze/blob/6212875e7ef7beb97addb6a4844ab26e8c45bf30/bot_pictures/1.jpg)
-![image alt]()
+![image alt](https://github.com/eceelango/BIT--VSD-FPGA-Mini-Maze/blob/7904d269b63ad11fcb793d571d3f5d01846e4923/bot_pictures/2.jpg)
 ![image alt]()
   
