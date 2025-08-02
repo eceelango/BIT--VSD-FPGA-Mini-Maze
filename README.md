@@ -23,6 +23,8 @@ This document provides an overview of the **VSDSquadron FPGA Mini (FM)** board a
 - [Example Makefile Snippet](#example-makefile-snippet)
 - [Full Workflow Example](#full-workflow-example)
 - [Tools Typically Used](#tools-typically-used)
+- [Single Layer - Maze Development](#-single-layer---maze-development)
+- [Double Layer - Maze Development](#-double-layer---maze-development)
 - [Summary](#summary)
 ---
 
@@ -250,7 +252,7 @@ Flashes (uploads) the generated bitstream or binary to the FPGA hardware.
 ```bash
 sudo make flash
 ```
-![VSD SQUADRON FPGA](VSDSquadron-FPGA-Mini-FM-board-Block-Diagram.png)
+![image alt](https://github.com/eceelango/BIT--VSD-FPGA-Mini-Maze/blob/9faa17b0a74b86f9fc1814ec87962e763c962154/bot_pictures/Block_Diagram.png)
 ---
 
 ## Example Makefile Snippet
@@ -310,6 +312,24 @@ sudo make flash # Flash the bitstream onto the FPGA board
 - **Programming:** Onboard FTDI FT232H enables USB-based programming.
 - **First Project:** A preloaded "blink LED" example is included for quick testing.
 
+
+---
+
+
+# 🧩 Single Layer - Maze Development
+
+You can refer to the following resources related to the single-layer maze bot in the dedicated repository:
+
+- 🖼️ **Images** of the maze and bot
+- 🛠️ **PCB Designs** used for the single-layer implementation
+- 📹 **Output Videos** demonstrating the bot's working
+
+👉 [Click here to visit the Single Layer Maze Development Repository](https://github.com/gowthamnow/VSD-MAZE-ROBOT)
+
+---
+
+# 🧩 Double Layer - Maze Development
+
  
 ![image alt](https://github.com/eceelango/BIT--VSD-FPGA-Mini-Maze/blob/6212875e7ef7beb97addb6a4844ab26e8c45bf30/bot_pictures/1.jpg)
 
@@ -327,14 +347,6 @@ sudo make flash # Flash the bitstream onto the FPGA board
 
 ---
 
-## 🧩 Single Layer - Maze Development
 
-You can refer to the following resources related to the single-layer maze bot in the dedicated repository:
-
-- 🖼️ **Images** of the maze and bot
-- 🛠️ **PCB Designs** used for the single-layer implementation
-- 📹 **Output Videos** demonstrating the bot's working
-
-👉 [Click here to visit the Single Layer Maze Development Repository](https://github.com/gowthamnow/VSD-MAZE-ROBOT)
 
 
