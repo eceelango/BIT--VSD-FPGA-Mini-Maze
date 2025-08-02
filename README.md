@@ -652,3 +652,50 @@ end
 
 endmodule
 ```
+---
+## 📈 Resource Utilization
+---
+
+![image alt](https://github.com/eceelango/BIT--VSD-FPGA-Mini-Maze/blob/6bc06af5dfce3dbc9b7e98691935b26ecb2018d7/bot_pictures/resource_report.png)
+
+---
+
+### ⚙️ Resource Utilization Workflow
+
+The following commands were used to synthesize the design and generate the resource utilization report:
+---
+<pre><code># Step 1: Start Yosys
+yosys
+
+# Step 2: Run synthesis for the iCE40 FPGA family
+synth_ice40 -top top_module_name -json out.json
+</code></pre>
+
+---
+
+> ### Replace `top_module_name` with the name of your top module.
+
+---
+
+## 🎥 Final Output – Working Bot Demo
+
+### 🐢 23% Speed Demo
+
+[▶️ Watch Video](https://github.com/eceelango/BIT--VSD-FPGA-Mini-Maze/blob/6bc06af5dfce3dbc9b7e98691935b26ecb2018d7/bot_videos/23%25_speed.mp4)
+*Initial test at 23% speed to verify wall-following and obstacle detection.*
+
+---
+
+### ⚙️ 35% Speed Demo – Test Run 1
+
+[▶️ Watch Video](https://github.com/eceelango/BIT--VSD-FPGA-Mini-Maze/blob/6bc06af5dfce3dbc9b7e98691935b26ecb2018d7/bot_videos/35%25%20_speed.mp4)
+*First performance run at 35% speed to test navigation accuracy and speed handling.*
+
+---
+
+### ⚙️ 35% Speed Demo – Test Run 2
+
+[▶️ Watch Video](https://github.com/eceelango/BIT--VSD-FPGA-Mini-Maze/blob/6bc06af5dfce3dbc9b7e98691935b26ecb2018d7/bot_videos/35%25_speed_2.mp4)
+*Second 35% speed test to demonstrate stability and route correction.*
+
+---
