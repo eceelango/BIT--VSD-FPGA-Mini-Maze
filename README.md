@@ -388,7 +388,7 @@ The following image shows the **Draftsman view** of our PCB, including:
 ## 🖼️ PCB Layout – Top and Bottom Layers
 
 ---
-![image alt](https://github.com/eceelango/BIT--VSD-FPGA-Mini-Maze/blob/fb19c58b6a5307963b4d02a00653d3bdd2d22982/bot_pictures/Final%20Draftman%20BIT%20-%20VSDSquadron%20FPGA%20Micromouse_page-0002.jpg)
+![image alt](https://github.com/eceelango/BIT--VSD-FPGA-Mini-Maze/blob/b2b180cb2f6cb507c4e73a219b6f4995c8294acb/PCB/PCB_pictures/Top%26Bottom_layers.jpg)
 
 ---
 
