@@ -381,7 +381,7 @@ The following image shows the **Draftsman view** of our PCB, including:
 - Left, right, and back profiles for assembly reference
 - Proper alignment and height of all modules
 ---
-![image alt](https://github.com/eceelango/BIT--VSD-FPGA-Mini-Maze/blob/fb19c58b6a5307963b4d02a00653d3bdd2d22982/bot_pictures/Final%20Draftman%20BIT%20-%20VSDSquadron%20FPGA%20Micromouse_page-0001.jpg)
+![image alt](https://github.com/eceelango/BIT--VSD-FPGA-Mini-Maze/blob/aa70aac27868814716829a5d5d7531ed4b8af8a5/PCB/PCB_pictures/Draftsman.jpg)
 
 ---
 
