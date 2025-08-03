@@ -396,7 +396,7 @@ The following image shows the **Draftsman view** of our PCB, including:
 
 ---
 
-![image alt](https://github.com/eceelango/BIT--VSD-FPGA-Mini-Maze/blob/fb19c58b6a5307963b4d02a00653d3bdd2d22982/bot_pictures/Final%20Draftman%20BIT%20-%20VSDSquadron%20FPGA%20Micromouse_page-0003.jpg)
+![image alt](https://github.com/eceelango/BIT--VSD-FPGA-Mini-Maze/blob/18ccc91b92ec72b3cbb3d05aec9455673a311678/PCB/PCB_pictures/3D_view.jpg)
 
 ---
 
