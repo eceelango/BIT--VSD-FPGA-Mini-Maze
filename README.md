@@ -340,7 +340,7 @@ You can refer to the following resources related to the single-layer maze bot in
 
 # 🧩 Double Layer - Maze Development
 
-![image alt](https://github.com/eceelango/BIT--VSD-FPGA-Mini-Maze/blob/2d0f8c3fc122bc20c432f14151d5c6b600680db3/bot_pictures/old%20vs%20new%20.jpg)
+![image alt](https://github.com/eceelango/BIT--VSD-FPGA-Mini-Maze/blob/4fcfc892149c2ff764d52e138a69caa8df11c105/bot_pictures/old%20vs%20new%20.jpg)
 
  
 ![image alt](https://github.com/eceelango/BIT--VSD-FPGA-Mini-Maze/blob/6212875e7ef7beb97addb6a4844ab26e8c45bf30/bot_pictures/1.jpg)
