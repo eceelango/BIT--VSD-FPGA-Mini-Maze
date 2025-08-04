@@ -38,6 +38,7 @@ VSD FPGA Based Maze Solving Robot Design and Development.
     * [Resource Utilization](#resource-utilization)
 * [Final Output – Working Bot Demo](#final-output--working-bot-demo)
 * [Project Recognition](#project-recognition)
+* [Project Authors](#project-authors)
   
   
 
@@ -418,27 +419,28 @@ The following image shows the **Draftsman view** of our PCB, including:
 
 The following components were used in building the Maze Solver Bot on the VSDSquadron FPGA Mini board:
 
-| S.No | Component Description                         |
-| ---- | --------------------------------------------- |
-| 1    | VSDSquadron FPGA Mini                         |
-| 2    | TB6612FNG Motor Controller/Driver             |
-| 3    | Ultrasonic Sensor Module                      |
-| 4    | N20 Motor                                     |
-| 5    | 5 cm Wheel                                    |
-| 6    | 7.4V 600mAh Li-Po Battery                     |
-| 7    | Capacitor – 2.2 µF                            |
-| 8    | Capacitor – 100 nF                            |
-| 9    | LED                                           |
-| 10   | 3-Pin Connector Header (Through-Hole)         |
-| 11   | 2-Pin Connector Header (Through-Hole)         |
-| 12   | 6-Pin Female Header (2.54 mm pitch)           |
-| 13   | 4-Pin Female Header (2.54 mm pitch)           |
-| 14   | 8-Pin Female Header (2.54 mm pitch)           |
-| 15   | Resistor – 100 Ohm                            |
-| 16   | MINI SPDT Switch                              |
-| 17   | LM7805ACT – 5V Positive Voltage Regulator     |
-| 18   | Mounting Bracket for N20 Micro Gear Motors    |
-| 19   | Caster Wheel                                  |
+| S.No | Component                                  | Quantity |
+| ---- | ------------------------------------------ | -------- |
+| 1    | VSD Squadron FPGA Mini                     | 1        |
+| 2    | TB6612FNG Motor Controller/Driver          | 1        |
+| 3    | Ultrasonic Sensor Module                   | 3        |
+| 4    | ENCODER N20 Motor                          | 2        |
+| 5    | 5 cm Wheel                                 | 2        |
+| 6    | Li-Po Battery 7.4 V 600 mAh                | 1        |
+| 7    | Capacitor, 2.2 µF                          | 2        |
+| 8    | Capacitor, 100 nF                          | 1        |
+| 9    | LED                                        | 1        |
+| 10   | Connector Header Through Hole (3-position) | 1        |
+| 11   | Connector Header Through Hole (2-position) | 2        |
+| 12   | Female Header 2.54 mm (6-position)         | 3        |
+| 13   | Female Header 2.54 mm (4-position)         | 1        |
+| 14   | Female Header 2.54 mm (8-position)         | 1        |
+| 15   | Resistor, 100 Ω                            | 1        |
+| 16   | Mini SPDT Switch (MINI-SPDT-SW)            | 1        |
+| 17   | LM7805ACT Positive Voltage Regulator, 5 V  | 1        |
+| 18   | Mounting Bracket for N20 Micro Gear Motors | 2        |
+| 19   | Caster Wheel                               | 1        |
+
 
 ---
 
@@ -766,5 +768,18 @@ Our Maze Solver Bot, developed entirely using the VSDSquadron FPGA platform, was
 * [🔧 Build a Robot with VLSI + FPGA](https://www.linkedin.com/posts/kunal-ghosh-vlsisystemdesign-com-28084836_final-5h-build-a-robot-with-vlsifpga-activity-7340366902277390336-0WHi?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFm02L0BxEsQ5DqBZizIPfKSw7-9JeUtTNA)
 
 * [🚗 Maze Solver Bot with VSDSquadron FPGA](https://www.linkedin.com/posts/kunal-ghosh-vlsisystemdesign-com-28084836_vsdsquadron-lattice-activity-7355861256722960384--0Xs?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFm02L0BxEsQ5DqBZizIPfKSw7-9JeUtTNA)
+
+---
+
+# Project Authors
+
+This project was designed, developed, and documented by the following contributors:
+
+| S.No | Name               | GitHub Profile                                         | LinkedIn Profile                                                                                          |
+| ---- | ------------------ | ------------------------------------------------------ | --------------------------------------------------------------------------------------------------------- |
+| 1    | Elango Sekar       | [github.com/eceelango](https://github.com/eceelango)   | [linkedin.com/in/elango-sekar-8973b958](https://www.linkedin.com/in/elango-sekar-8973b958/)               |
+| 2    | Gowtham T          | [github.com/gowthamnow](https://github.com/gowthamnow) | [linkedin.com/in/gowtham-t-73a2b7299](https://www.linkedin.com/in/gowtham-t-73a2b7299/)                   |
+| 3    | Dhanasri Anbalagan | [github.com/DHANASRI-A](https://github.com/DHANASRI-A) | [linkedin.com/in/dhanasri-anbalagan-0a5043360](https://www.linkedin.com/in/dhanasri-anbalagan-0a5043360/) |
+
 
 ---
