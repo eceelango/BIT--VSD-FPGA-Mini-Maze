@@ -655,10 +655,6 @@ endmodule
 ## Resource Utilization
 ---
 
-![image alt](https://github.com/eceelango/BIT--VSD-FPGA-Mini-Maze/blob/6bc06af5dfce3dbc9b7e98691935b26ecb2018d7/bot_pictures/resource_report.png)
-
----
-
 ### ⚙️ Resource Utilization Workflow
 
 The following commands were used to synthesize the design and generate the resource utilization report:
@@ -676,7 +672,13 @@ synth_ice40 -top top_module_name -json out.json
 
 ---
 
+![image alt](https://github.com/eceelango/BIT--VSD-FPGA-Mini-Maze/blob/6bc06af5dfce3dbc9b7e98691935b26ecb2018d7/bot_pictures/resource_report.png)
+
+---
+
 ## Final Output – Working Bot Demo
+
+---
 
 ### 🐢 23% Speed Demo
 
