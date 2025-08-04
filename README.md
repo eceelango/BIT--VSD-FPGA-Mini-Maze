@@ -2,7 +2,7 @@
 
 ![image alt](https://github.com/eceelango/BIT--VSD-FPGA-Mini-Maze/blob/0b69ca197324d60a622b113e53be56435d2b689a/bot_pictures/3.jpg)
 
-VSD FPGA Based Maze Solving Robot Design and Development. 
+VSD FPGA Based Maze Solving Robot Design and Development.
 # 🚀 VSDSquadron FPGA Mini (FM)
 
 #### This document presents a detailed walkthrough of building a Maze Solver Bot using the VSDSquadron FPGA Mini (FM) board. It includes essential command-line operations, PCB design schematics, and RTL code implementation, offering a complete view of the hardware and software integration process.
@@ -325,7 +325,7 @@ sudo make flash # Flash the bitstream onto the FPGA board
 ---
 
 
-# 🧩 Single Layer - Maze Development
+# 🧩 Single Layer - Maze Solver Bot Development
 
 You can refer to the following resources related to the single-layer maze bot in the dedicated repository:
 
@@ -337,7 +337,7 @@ You can refer to the following resources related to the single-layer maze bot in
 
 ---
 
-# 🧩 Double Layer - Maze Development
+# 🧩 Double Layer - Maze Solver Bot Development
 
 ![image alt](https://github.com/eceelango/BIT--VSD-FPGA-Mini-Maze/blob/4fcfc892149c2ff764d52e138a69caa8df11c105/bot_pictures/old%20vs%20new%20.jpg)
 
