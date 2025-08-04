@@ -778,7 +778,7 @@ This project was designed, developed, and documented by the following contributo
 | S.No | Name               | GitHub Profile                                         | LinkedIn Profile                                                                                          |
 | ---- | ------------------ | ------------------------------------------------------ | --------------------------------------------------------------------------------------------------------- |
 | 1    | Elango Sekar       | [github.com/eceelango](https://github.com/eceelango)   | [linkedin.com/in/elango-sekar-8973b958](https://www.linkedin.com/in/elango-sekar-8973b958/)               |
-| 2    | Gowtham T          | [github.com/gowthamnow](https://github.com/gowthamnow) | [linkedin.com/in/gowtham-t-73a2b7299](https://www.linkedin.com/in/gowtham-t-73a2b7299/)                   |
+| 2    | Gowtham          | [github.com/gowthamnow](https://github.com/gowthamnow) | [linkedin.com/in/gowtham-t-73a2b7299](https://www.linkedin.com/in/gowtham-t-73a2b7299/)                   |
 | 3    | Dhanasri Anbalagan | [github.com/DHANASRI-A](https://github.com/DHANASRI-A) | [linkedin.com/in/dhanasri-anbalagan-0a5043360](https://www.linkedin.com/in/dhanasri-anbalagan-0a5043360/) |
 
 
