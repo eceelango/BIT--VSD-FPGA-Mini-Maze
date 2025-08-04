@@ -37,6 +37,8 @@ VSD FPGA Based Maze Solving Robot Design and Development.
     * [Resource Utilization](#resource-utilization)
 * [Final Output – Working Bot Demo](#final-output--working-bot-demo)
 * [Project Recognition](#project-recognition)
+* [Tools Used](#️-tools-used)
+  
 
 
 
@@ -436,6 +438,13 @@ The following components were used in building the Maze Solver Bot on the VSDSqu
 | 17   | LM7805ACT – 5V Positive Voltage Regulator     |
 | 18   | Mounting Bracket for N20 Micro Gear Motors    |
 | 19   | Caster Wheel                                  |
+
+---
+## Tools Used
+
+We used **Altium Designer** for schematic and PCB design, supported through the **Altium Student Lab Program**. This tool enabled us to create a precise and industry-grade layout for interfacing the FPGA board with external modules. Its rich library and simulation support helped accelerate our hardware design and validation process.
+
+
 
 ---
 
