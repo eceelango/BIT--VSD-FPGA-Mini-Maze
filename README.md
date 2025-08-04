@@ -5,8 +5,7 @@
 VSD FPGA Based Maze Solving Robot Design and Development. 
 # 🚀 VSDSquadron FPGA Mini (FM)
 
-This document provides an overview of the **VSDSquadron FPGA Mini (FM)** board and details the usage of essential commands in the Maze Development.
-
+#### This document presents a detailed walkthrough of building a Maze Solver Bot using the VSDSquadron FPGA Mini (FM) board. It includes essential command-line operations, PCB design schematics, and RTL code implementation, offering a complete view of the hardware and software integration process.
 ---
 
 ## 📋 Table of Contents
