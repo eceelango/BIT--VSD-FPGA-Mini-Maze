@@ -24,10 +24,10 @@ VSD FPGA Based Maze Solving Robot Design and Development.
 * [Single Layer - Maze Solver Bot Development](#single-layer---maze-solver-bot-development)
 * [Double Layer - Maze Solver Bot Development](#double-layer---maze-solver-bot-development)
   * [PCB Design](#pcb-design)
-    * [Schematic](#schematic-diagram)
+    * [Schematic Diagram](#schematic-diagram)
     * [Draftsman Drawing](#draftsman-drawing)
-    * [PCB Layout](#pcb-layout--top-and-bottom-layers)
-    * [3D View](#3d-view-of-the-pcb)
+    * [PCB Layout – Top and Bottom Layers](#pcb-layout--top-and-bottom-layers)
+    * [3D View of the PCB](#3d-view-of-the-pcb)
     * [Fabrication and Assembled Bot](#fabrication-and-assembled-bot)
   * [FPGA](#fpga)
     * [RTL code](#rtl-code)
@@ -351,7 +351,7 @@ You can refer to the following resources related to the single-layer maze bot in
 ## PCB Design 
 ---
 
-## ⚡ Schematic Diagram
+## Schematic Diagram
 
 Below is the complete **schematic diagram** for the double-layer maze development board. It includes the following circuit blocks:
 
@@ -384,14 +384,14 @@ The following image shows the **Draftsman view** of our PCB, including:
 
 ---
 
-## 🖼️ PCB Layout – Top and Bottom Layers
+## PCB Layout – Top and Bottom Layers
 
 ---
 ![image alt](https://github.com/eceelango/BIT--VSD-FPGA-Mini-Maze/blob/c38af81cfdb986aae24f634a7a06924426d394ef/PCB/PCB_pictures/Top%26Bottom_layers.jpg)
 
 ---
 
-## 🧱 3D View of the PCB
+## 3D View of the PCB
 
 ---
 
@@ -399,7 +399,7 @@ The following image shows the **Draftsman view** of our PCB, including:
 
 ---
 
-## 🛠️ Fabrication and Assembled Bot
+## Fabrication and Assembled Bot
 ---
 
 ![image alt](https://github.com/eceelango/BIT--VSD-FPGA-Mini-Maze/blob/2226986757d5095fbbd866b1b1e8b3b0e6d65892/bot_pictures/Assembled%20and%20soldered.jpg)
