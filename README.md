@@ -680,6 +680,9 @@ synth_ice40 -top top_module_name -json out.json
 
 ### 🐢 23% Speed Demo
 
+[![Watch the video](https://img.youtube.com/vi/Wy0YzF0P1mc/0.jpg)](https://youtu.be/Wy0YzF0P1mc)
+
+
 [▶️ Watch Video](https://github.com/eceelango/BIT--VSD-FPGA-Mini-Maze/blob/6bc06af5dfce3dbc9b7e98691935b26ecb2018d7/bot_videos/23%25_speed.mp4)
 *Initial test at 23% speed to verify wall-following and obstacle detection.*
 
