@@ -2,6 +2,8 @@
 
 ![image alt](https://github.com/eceelango/BIT--VSD-FPGA-Mini-Maze/blob/0b69ca197324d60a622b113e53be56435d2b689a/bot_pictures/3.jpg)
 
+![image alt](https://github.com/eceelango/BIT--VSD-FPGA-Mini-Maze/blob/6fd09fb44bcb8c4aff49496406189b7cffbc392c/bot_pictures/Maze_picture.jpg)
+
 VSD FPGA Based Maze Solving Robot Design and Development.
 # 🚀 VSDSquadron FPGA Mini (FM)
 
