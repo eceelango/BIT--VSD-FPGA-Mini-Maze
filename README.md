@@ -441,6 +441,7 @@ The following components were used in building the Maze Solver Bot on the VSDSqu
 | 19   | Caster Wheel                                  |
 
 ---
+
 ## Tools Used
 
 We used **Altium Designer** for schematic and PCB design, supported through the **Altium Student Lab Program**. This tool enabled us to create a precise and industry-grade layout for interfacing the FPGA board with external modules. 
