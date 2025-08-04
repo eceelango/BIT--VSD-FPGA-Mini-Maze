@@ -33,6 +33,7 @@ VSD FPGA Based Maze Solving Robot Design and Development.
     * [RTL code](#rtl-code)
     * [Resource Utilization](#resource-utilization)
 * [Final Output – Working Bot Demo](#final-output--working-bot-demo)
+* [Project Recognition](project_recognition)
 
 
 
@@ -703,5 +704,19 @@ synth_ice40 -top top_module_name -json out.json
 
 [▶️ Watch Video](https://github.com/eceelango/BIT--VSD-FPGA-Mini-Maze/blob/6bc06af5dfce3dbc9b7e98691935b26ecb2018d7/bot_videos/35%25_speed_2.mp4)
 *Second 35% speed test to demonstrate stability and route correction.*
+
+---
+
+## Project Recognition
+
+Our Maze Solver Bot, developed entirely using the VSDSquadron FPGA platform, was officially recognized for its innovation and practical hardware implementation. This accomplishment was independently achieved by our team and has been featured in prominent LinkedIn posts showcasing FPGA-based robotics.
+
+---
+
+### 🏆 Featured Mentions
+
+* [🔧 Build a Robot with VLSI + FPGA](https://www.linkedin.com/posts/kunal-ghosh-vlsisystemdesign-com-28084836_final-5h-build-a-robot-with-vlsifpga-activity-7340366902277390336-0WHi?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFm02L0BxEsQ5DqBZizIPfKSw7-9JeUtTNA)
+
+* [🚗 Maze Solver Bot with VSDSquadron FPGA](https://www.linkedin.com/posts/kunal-ghosh-vlsisystemdesign-com-28084836_vsdsquadron-lattice-activity-7355861256722960384--0Xs?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFm02L0BxEsQ5DqBZizIPfKSw7-9JeUtTNA)
 
 ---
