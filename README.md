@@ -691,6 +691,8 @@ synth_ice40 -top top_module_name -json out.json
 ---
 
 ### ⚙️ 35% Speed Demo – Test Run 1
+[![Watch the video](https://img.youtube.com/vi/dcbGqtxwAFU/0.jpg)](https://youtu.be/dcbGqtxwAFU)
+
 
 [▶️ Watch Video](https://github.com/eceelango/BIT--VSD-FPGA-Mini-Maze/blob/6bc06af5dfce3dbc9b7e98691935b26ecb2018d7/bot_videos/35%25%20_speed.mp4)
 *First performance run at 35% speed to test navigation accuracy and speed handling.*
