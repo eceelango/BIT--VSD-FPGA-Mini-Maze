@@ -444,6 +444,10 @@ The following components were used in building the Maze Solver Bot on the VSDSqu
 
 We used **Altium Designer** for schematic and PCB design, supported through the **Altium Student Lab Program**. This tool enabled us to create a precise and industry-grade layout for interfacing the FPGA board with external modules. 
 
+---
+
+![image alt](https://github.com/eceelango/BIT--VSD-FPGA-Mini-Maze/blob/ebd66d3388e8238c11b4af4ffbe7dff39203832a/PCB/altium.jpg)
+
 
 
 ---
