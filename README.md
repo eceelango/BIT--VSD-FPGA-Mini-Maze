@@ -118,7 +118,7 @@ git clone https://github.com/gowthamnow/VSD-MAZE-ROBOT
 ---
 
 ---
-# ⚙️ VSDSquadron FM FPGA - Software Installation Guide
+# VSDSquadron FM FPGA - Software Installation Guide
 
 This guide helps you set up the **VSDSquadron FPGA Mini (FM)** board on your system and run your first project.
 
