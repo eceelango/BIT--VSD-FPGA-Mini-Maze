@@ -325,7 +325,7 @@ sudo make flash # Flash the bitstream onto the FPGA board
 ---
 
 
-# 🧩 Single Layer - Maze Solver Bot Development
+# Single Layer - Maze Solver Bot Development
 
 You can refer to the following resources related to the single-layer maze bot in the dedicated repository:
 
@@ -337,7 +337,7 @@ You can refer to the following resources related to the single-layer maze bot in
 
 ---
 
-# 🧩 Double Layer - Maze Solver Bot Development
+# Double Layer - Maze Solver Bot Development
 
 ![image alt](https://github.com/eceelango/BIT--VSD-FPGA-Mini-Maze/blob/4fcfc892149c2ff764d52e138a69caa8df11c105/bot_pictures/old%20vs%20new%20.jpg)
 
