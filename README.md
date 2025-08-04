@@ -11,7 +11,7 @@ VSD FPGA Based Maze Solving Robot Design and Development.
 ## 📋 Table of Contents
 
 * [Board Overview](#board-overview)
-* [Specifications](#specifications)
+* [Specifications and Pinouts](#specifications-and-pinouts)
 * [VSDSquadron FM FPGA - Software Installation Guide](#vsdsquadron-fm-fpga---software-installation-guide)
 * [Command Breakdown](#command-breakdown)
   * [make](#make)
