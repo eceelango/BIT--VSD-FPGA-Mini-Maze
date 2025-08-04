@@ -32,12 +32,13 @@ VSD FPGA Based Maze Solving Robot Design and Development.
     * [3D View of the PCB](#3d-view-of-the-pcb)
     * [Fabrication and Assembled Bot](#fabrication-and-assembled-bot)
     * [Components Used](#components-used)
+    * [Tools Used](#️tools-used)
   * [FPGA](#fpga)
     * [RTL code](#rtl-code)
     * [Resource Utilization](#resource-utilization)
 * [Final Output – Working Bot Demo](#final-output--working-bot-demo)
 * [Project Recognition](#project-recognition)
-* [Tools Used](#️-tools-used)
+  
   
 
 
