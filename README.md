@@ -743,7 +743,7 @@ synth_ice40 -top top_module_name -json out.json
 
 ## Project Recognition
 
-Our Maze Solver Bot, developed entirely using the VSDSquadron FPGA platform, was officially recognized for its innovation and practical hardware implementation. This accomplishment was independently achieved by our team and has been featured in prominent LinkedIn posts showcasing FPGA-based robotics.
+Our Maze Solver Bot, developed entirely using the VSDSquadron FPGA platform, was officially recognized for its innovation and practical hardware implementation. This accomplishment was achieved by our team and has been featured in prominent LinkedIn posts showcasing FPGA-based robotics.
 
 ---
 
