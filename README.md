@@ -420,7 +420,7 @@ The following components were used in building the Maze Solver Bot on the VSDSqu
 | 1    | VSDSquadron FPGA Mini                         |
 | 2    | TB6612FNG Motor Controller/Driver             |
 | 3    | Ultrasonic Sensor Module                      |
-| 4    | N20 Motor with Encoder                        |
+| 4    | N20 Motor                                     |
 | 5    | 5 cm Wheel                                    |
 | 6    | 7.4V 600mAh Li-Po Battery                     |
 | 7    | Capacitor – 2.2 µF                            |
@@ -436,7 +436,6 @@ The following components were used in building the Maze Solver Bot on the VSDSqu
 | 17   | LM7805ACT – 5V Positive Voltage Regulator     |
 | 18   | Mounting Bracket for N20 Micro Gear Motors    |
 | 19   | Caster Wheel                                  |
-| 20   | PCB Fabrication Service (Minimum Quantity: 2) |
 
 ---
 
