@@ -20,7 +20,7 @@ VSD FPGA Based Maze Solving Robot Design and Development.
 * [Example Makefile Snippet](#example-makefile-snippet)
 * [Full Workflow Example](#full-workflow-example)
 * [Tools Typically Used](#tools-typically-used)
-* [Main Commands](#maincommands)
+* [Main Commands](#main-commands)
 * [Single Layer - Maze Development](#single-layer---maze-development)
 * [Double Layer - Maze Development](#double-layer---maze-development)
   * [PCB Design](#pcb-design)
