@@ -25,7 +25,7 @@ VSD FPGA Based Maze Solving Robot Design and Development.
 * [Double Layer - Maze Solver Bot Development](#double-layer---maze-solver-bot-development)
   * [PCB Design](#pcb-design)
     * [Schematic](#schematic-diagram)
-    * [Draftsman](#draftsman-drawing)
+    * [Draftsman Drawing](#draftsman-drawing)
     * [PCB Layout](#pcb-layout--top-and-bottom-layers)
     * [3D View](#3d-view-of-the-pcb)
     * [Fabrication and Assembled Bot](#fabrication-and-assembled-bot)
@@ -372,7 +372,7 @@ Below is the complete **schematic diagram** for the double-layer maze developmen
 ![image alt](https://github.com/eceelango/BIT--VSD-FPGA-Mini-Maze/blob/ccc17de0ef78f47d40051bdd0e8857a9d676e321/bot_pictures/MAZE_page-0001.jpg)
 
 ---
-## 📄 Draftsman Drawing
+## Draftsman Drawing
 ---
 The following image shows the **Draftsman view** of our PCB, including:
 
@@ -652,7 +652,7 @@ end
 endmodule
 ```
 ---
-## 📈 Resource Utilization
+## Resource Utilization
 ---
 
 ![image alt](https://github.com/eceelango/BIT--VSD-FPGA-Mini-Maze/blob/6bc06af5dfce3dbc9b7e98691935b26ecb2018d7/bot_pictures/resource_report.png)
